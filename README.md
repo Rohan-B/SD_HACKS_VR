@@ -1,5 +1,5 @@
 # SD_HACKS_VR
-Occulus Rift @ SD Hacks, Rohan and Mo 
+Occulus Rift @ SD Hacks, Rohan and Mohamed 
 
 Overview: 
 We designed and built this  virtual reality game over the 36 hour hacking
