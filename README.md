@@ -16,4 +16,6 @@ was controlled through a small reticule displayed in the headset and you
 Myo armband. The jeep would take you through a variety of landscapes giving you
 the opportunity to earn points and beat the high score. 
 
+Pictures: 
 
+![alt tag](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/300/112/datas/gallery.jpg)
