@@ -18,4 +18,5 @@ the opportunity to earn points and beat the high score.
 
 Pictures: 
 
-![alt tag](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/300/112/datas/gallery.jpg)
+![pic1](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/300/112/datas/gallery.jpg)
+
